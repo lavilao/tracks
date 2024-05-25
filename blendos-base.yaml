@@ -40,7 +40,6 @@ packages:
   - 'blend'
   - 'blend-settings'
   - 'brltty'
-  - 'broadcom-wl-dkms'
   - 'btrfs-progs'
   - 'cryptsetup'
   - 'dhclient'
@@ -116,7 +115,7 @@ packages:
   - 'bluez'
   - 'networkmanager'
   - 'cups'
-  - 'ttf-jetbrains-mono'
+  - 'ttf-jetbrains-mono-nerd'
 
 services:
   - 'cups'
